@@ -12,8 +12,9 @@ I'm a passionate **Computer Science undergraduate** with expertise in **AI, Mach
 - 💻 Programming: **Python, Java, C, C++**  
 - 🎯 Passionate about **AI-driven applications & predictive analytics**  
 
-## 📌 Featured Projects  
-🔹 **[NLP-Based Recommendation System](https://github.com/sasiruvinoshya/project-link)** – AI model for ranking vehicle service centers using sentiment analysis.  
+## 📌 Featured Projects
+
+🔹 NLP-Based Recommendation System
 ## 📌 Description  
 This AI-powered recommendation system analyzes **customer reviews** and ranks **vehicle service centers** based on sentiment analysis. The model classifies reviews as **positive or negative** and ranks service centers accordingly to help customers make informed decisions.  
 
@@ -29,9 +30,8 @@ This AI-powered recommendation system analyzes **customer reviews** and ranks **
 - **Data Processing:** Pandas, NumPy, NLTK  
 - **Storage:** CSV-based dataset  
 
-🔹 **[AI-Powered Inventory Prediction](https://github.com/sasiruvinoshya/project-link)** – Predictive analytics model for warehouse stock forecasting.  
-# 🏭 AI-Powered Inventory Prediction Model  
 
+🔹 AI-Powered Inventory Prediction
 ## 📌 Description  
 This AI model uses **Random Forest** to **predict future inventory needs** based on historical sales data. It helps optimize stock levels and prevent overstock or stockouts, ensuring efficient inventory management.  
 
